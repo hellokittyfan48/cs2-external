@@ -1,6 +1,20 @@
 # Counter Strike 2 External
 Unfinished but working source for a read only cs2 external cheat, might update it
 
+## Features
+- Decent ImGui menu
+- ESP
+  - Boxes
+  - Bones
+  - Health bar
+  - Snaplines
+  - Head circles
+  - Name
+  - Distance
+  - Team
+- Aimbot
+- C4 Info
+
 ## Usage
 1. Clone the repository
 2. Open the `.sln` file
