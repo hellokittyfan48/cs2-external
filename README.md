@@ -1,2 +1,15 @@
-# cs2-external
-Poorly coded Counter Strike 2 gameplay enhancer that uses the Nvidia overlay
+# Counter Strike 2 External
+Unfinished but working source for a read only cs2 external cheat, might update it
+
+## Usage
+1. Clone the repository
+2. Open the `.sln` file
+3. Build in `Release | x64`
+
+## VAC
+You can make this undetected using my [process hollowing repository](https://github.com/hellokittyfan48/process-hollowing)
+
+## Need help?
+Contact me through my Discord which can be found [here](https://hellokittyfan48.github.io/)
+
+#### Leave a 🌟 if you like it <3
